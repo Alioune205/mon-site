@@ -31,3 +31,4 @@ git log
 ```
 
 Elle affiche l’historique des commits avec les auteurs, dates et messages.
+
